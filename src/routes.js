@@ -1,4 +1,5 @@
 import {Component} from '@angular/core';
+import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 import {ROUTER_DIRECTIVES} from '@angular/router';
 import {MainComponent} from './app/main';
 

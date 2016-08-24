@@ -1,15 +1,27 @@
 {
+  "name": "BackFromTheMovies",
+  "version": "0.1.0",
+  "description": "Back From The Movies",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/GregePorter/BackFromTheMovies.git"
+  },
+  "author": "Gregory Porter",
+  "license": "None",
   "dependencies": {
-    "@angular/core": "2.0.0-rc.4",
-    "@angular/compiler": "2.0.0-rc.4",
     "@angular/common": "2.0.0-rc.4",
+    "@angular/compiler": "2.0.0-rc.4",
+    "@angular/core": "2.0.0-rc.4",
+    "@angular/http": "2.0.0-rc.4",
     "@angular/platform-browser": "2.0.0-rc.4",
     "@angular/platform-browser-dynamic": "2.0.0-rc.4",
-    "@angular/http": "2.0.0-rc.4",
-    "rxjs": "5.0.0-beta.8",
-    "zone.js": "^0.6.12",
+    "@angular/router": "3.0.0-beta.2",
+    "@ng-bootstrap/ng-bootstrap": "^1.0.0-alpha.2",
+    "babel-loader": "^6.2.5",
     "reflect-metadata": "0.1.3",
-    "@angular/router": "3.0.0-beta.2"
+    "rxjs": "5.0.0-beta.8",
+    "zone.js": "^0.6.12"
   },
   "devDependencies": {
     "autoprefixer": "^6.2.2",

@@ -1,8 +1,6 @@
 import 'reflect-metadata';
 import 'zone.js';
 
-import {bootstrap} from '@angular/platform-browser-dynamic';
-
 import './index.less';
 
 import {provideRouter} from '@angular/router';
